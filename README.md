@@ -1,6 +1,7 @@
-# ADIYANALE-JANE
+# ADIYANALE
+|DISCRIPTION|
+|-----------|
 |This prototype based on Arduino is designed to track soil health by utilizing an NPK (Nitrogen, Phosphorus, and Potassium) sensor.|
-|----------------------------------------------------------------------------------------------------------------------------------|
 We refer to it as adiyanale since it draws inspiration from the agricultural goddess in Pre-Colonial Philippine mythology called "adinayale". The NPK sensors connect to the analog input pins of the Arduino to gather soil nutrient information. As the system starts operating, the Arduino persistently monitors the nitrogen, phosphorus, and potassium readings from the sensors. The LCD screen shows these readings alongside their related units in milligrams per kilogram (mg/kg).|
 |The Idiyanale prototype acts as an intelligent agricultural device that integrates sensor technology and microcontroller programming for assessing soil fertility. By monitoring nutrients in real-time and providing future crop suggestions, the project seeks to aid farmers in enhancing crop yields, maximizing fertilizer efficiency, and encouraging sustainable farming methods.|
 
